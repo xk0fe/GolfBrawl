@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 491b915f93c341768a1b903692aeeba7, type: 3}
+  m_Name: PlayerClubsScriptableObject
+  m_EditorClassIdentifier: 
+  _clubs:
+  - {fileID: 11400000, guid: 425ce86b9973b0b479513fb946127a96, type: 2}
+  - {fileID: 11400000, guid: 2da101c7f6f76e946b1903519e2a362d, type: 2}
+  - {fileID: 11400000, guid: 67da7cbd50cde9a48b3d86b080cd5088, type: 2}
+  - {fileID: 11400000, guid: 02806c477ac95d749b9499b66de840d0, type: 2}
